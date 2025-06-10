@@ -46,7 +46,7 @@ Grouped DAX measures include:
 - Data model diagrams  
 - Tools used: Excalidraw, Draw.io
 
-## How to Use
+## 🛠️ How to Use
 1. Clone/download the repository  
 2. Open `Spotify Analysis.pbix` in Power BI Desktop  
 3. Interact using slicers, charts, filters  
