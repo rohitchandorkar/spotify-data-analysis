@@ -6,7 +6,7 @@
 A Power BI project that explores Spotify track-level data to uncover insights using structured modeling, DAX measures, and visual storytelling.
 
 
-## Features
+## 📊 Project Features
 - 📊 Interactive Power BI dashboard
 - 🎵 Analysis of albums, artists, and tracks
 - 📅 Year-over-year listening trends
@@ -20,7 +20,7 @@ A Power BI project that explores Spotify track-level data to uncover insights us
 
 
   
-## Tools & Technologies Used
+## 🧩 Tools & Technologies Used
 - Power BI  
 - DAX  
 - Power Query  
@@ -52,7 +52,7 @@ Grouped DAX measures include:
 3. Interact using slicers, charts, filters  
 4. Check DAX via Model view
    
-## Folder Structure
+## 📁 Folder Structure
 Spotify-Analysis/
 
 ├── assets/                 # Sketches and diagrams  
