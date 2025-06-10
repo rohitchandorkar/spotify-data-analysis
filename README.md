@@ -12,11 +12,12 @@ A Power BI project that explores Spotify track-level data to uncover insights us
 - 📅 Year-over-year listening trends
 - 🔥 Heatmap for peak listening hours
 - 📈 Drill-through functionality for detailed insights
-- Top tracks and artists analysis  
-- Custom KPIs and dynamic visuals  
-- DAX-based calculations for trends and benchmarks  
-- Interactive dashboard
-- Slicers, Cards, Donut Charts, Maps, Area Charts
+- 🎵 Top Tracks and Artists Analysis  
+- 📊 Custom KPIs and Dynamic Visuals
+- 📈 DAX-Based Calculations for Trends and Benchmarks
+- 📉 Interactive Dashboard
+- 🎛️ Slicers, Cards, Donut Charts, Maps, Area Charts 
+
 
   
 ## Tools & Technologies Used
