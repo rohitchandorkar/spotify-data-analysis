@@ -63,7 +63,8 @@ Spotify-Analysis/
 └── README.md
 
 ## 📷 Preview
-![Overview](https://github.com/user-attachments/assets/c1170ee4-b7ca-477c-8787-a193ed0fce92)
+![spotify ](https://github.com/user-attachments/assets/cf0ef215-4f3f-4e5e-80ac-e58a0dc93e7c)
+
 
   
 11. ## License (If public)
