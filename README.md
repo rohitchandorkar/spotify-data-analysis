@@ -55,10 +55,14 @@ Grouped DAX measures include:
 ## 📁 Folder Structure
 Spotify-Analysis/
 
-├── docs/                        # Sketches and diagrams  
-├── data/                        # CSV files  
-├── Spotify Analysis.pbix        # Power BI file  
-├── DAX_Measures.md              # DAX grouped documentation  
+├── docs/ 
+ # Sketches and diagrams  
+├── data/                        
+# CSV files  
+├── Spotify Analysis.pbix        
+# Power BI file  
+├── DAX_Measures.md             
+ # DAX grouped documentation  
 ├── Spotify_Presentation.pptx  
 └── README.md
 
