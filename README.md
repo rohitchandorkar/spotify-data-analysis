@@ -29,19 +29,19 @@ A Power BI project that explores Spotify track-level data to uncover insights us
 - PowerPoint (presentation)  
 - GitHub (version control)
    
-## Data Modeling
+## 📊  Data Modeling
 - Star schema design with Fact and Dimension tables  
 - Time intelligence applied on album release dates  
 - Cleaned using Power Query and Excel
  
-## DAX Measures
+## 📈  DAX Measures
 Grouped DAX measures include:
 - YOY & PY album KPIs  
 - Track & album popularity metrics  
 - Dynamic titles and filters
 ➡️ Full list in `DAX_Measures.md`
 
- ## Sketches & Design
+ ## 🎨  Sketches & Design
 - Dashboard layout wireframes  
 - Data model diagrams  
 - Tools used: Excalidraw, Draw.io
