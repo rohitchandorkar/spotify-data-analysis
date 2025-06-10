@@ -44,7 +44,7 @@ Grouped DAX measures include:
  ## 🎨  Sketches & Design
 - Dashboard layout wireframes  
 - Data model diagrams  
-- Tools used: Excalidraw, Draw.io
+- Tools used: Excalidraw.
 
 ## 🛠️ How to Use
 1. Clone/download the repository  
@@ -55,14 +55,10 @@ Grouped DAX measures include:
 ## 📁 Folder Structure
 Spotify-Analysis/
 
-├── docs/ 
- # Sketches and diagrams  
-├── data/                        
-# CSV files  
-├── Spotify Analysis.pbix        
-# Power BI file  
-├── DAX_Measures.md             
- # DAX grouped documentation  
+├── docs/                           # Sketches and diagrams  
+├── data/                           # CSV files  
+├── Spotify Analysis.pbix           # Power BI file  
+├── DAX_Measures.md                 # DAX grouped documentation  
 ├── Spotify_Presentation.pptx  
 └── README.md
 
