@@ -11,7 +11,8 @@ A Power BI project that explores Spotify track-level data to uncover insights us
 - Top tracks and artists analysis  
 - Custom KPIs and dynamic visuals  
 - DAX-based calculations for trends and benchmarks  
-- Interactive dashboard with slicers and filters
+- Interactive dashboard
+- Slicers, Cards, Donut Charts, Maps, Area Charts
 
   
 ## Tools & Technologies Used
