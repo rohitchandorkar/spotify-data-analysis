@@ -57,6 +57,7 @@ Spotify-Analysis/
 ├── Spotify_Presentation.pptx  
 └── README.md
 
+## 📷 Preview
   
 11. ## License (If public)
 MIT License – see LICENSE file for details.
