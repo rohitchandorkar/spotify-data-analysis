@@ -7,7 +7,11 @@ A Power BI project that explores Spotify track-level data to uncover insights us
 
 
 ## Features
-- Year-over-Year album comparison  
+- 📊 Interactive Power BI dashboard
+- 🎵 Analysis of albums, artists, and tracks
+- 📅 Year-over-year listening trends
+- 🔥 Heatmap for peak listening hours
+- 📈 Drill-through functionality for detailed insights
 - Top tracks and artists analysis  
 - Custom KPIs and dynamic visuals  
 - DAX-based calculations for trends and benchmarks  
