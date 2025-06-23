@@ -1,8 +1,6 @@
 ## **Spotify Power BI – DAX Measures**
 
 ---
----
-
 
 📊 KPI Metrics
 ▶️ Count Metrics
@@ -14,7 +12,6 @@ Count of Artist = COUNT(spotify_history[Artist Name])
 Count of Track = COUNT(spotify_history[Track Name])
 
 ---
-
 
 ▶️ **Distinct Count Metrics**
 
