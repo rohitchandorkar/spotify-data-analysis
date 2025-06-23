@@ -82,7 +82,8 @@ Spotify-Analysis/
 ---
 
 ## 📷 Preview
-![spotify ](https://github.com/user-attachments/assets/cf0ef215-4f3f-4e5e-80ac-e58a0dc93e7c)
+![Overview](https://github.com/user-attachments/assets/55da7cf2-ce9e-4172-965e-e8446d5f1928)
+
 
 ---
 
