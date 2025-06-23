@@ -10,7 +10,7 @@ Count of Artist = COUNT(spotify_history[Artist Name])
 
 Count of Track = COUNT(spotify_history[Track Name])
 
-===============================================================
+---
 
 
 ▶️ **Distinct Count Metrics**
@@ -21,7 +21,7 @@ No. of Artist = DISTINCTCOUNT(spotify_history[Artist Name])
 
 No. of Track = DISTINCTCOUNT(spotify_history[Track Name])
 
-===============================================================
+---
 
 📈 **Year-Wise Calculations**
 ▶️ Maximum and Minimum Year
@@ -42,7 +42,7 @@ LatestYearTrack =
 VAR _LatestYear = MAX(dimDate[Year])
 RETURN CALCULATE(DISTINCTCOUNT(spotify_history[Track Name]), dimDate[Year] = _LatestYear)
 
-===============================================================
+---
 
 ▶️**Previous Year Distinct Counts**
 
@@ -61,7 +61,7 @@ VAR _LatestYear = MAX(dimDate[Year])
 VAR _PreviousYear = _LatestYear - 1
 RETURN CALCULATE(DISTINCTCOUNT(spotify_history[Track Name]), dimDate[Year] = _PreviousYear)
 
-===============================================================
+---
 
 ▶️ **PY and YOY KPI Measures**
 
@@ -94,7 +94,7 @@ RETURN
         "vs PY: " & FORMAT(_Previous, "#,##0") & " (" & FORMAT(_YOY, "0.00") & ")",
         "No Data")
 
-===============================================================
+---
 
 📉 **Line Chart Annotations (Min/Max Highlights)**
 
@@ -121,14 +121,14 @@ VAR _CurrentValue = DISTINCTCOUNT(spotify_history[Track Name])
 RETURN
     IF(_CurrentValue = _MaxValue || _CurrentValue = _MinValue, _CurrentValue, BLANK())
     
-===============================================================
+---
 
 ⏱️ **Listening Time & Engagement**
 
 Avg Listening Time (min) = 
 AVERAGE(spotify_history[ms_played]) / 60000
 
-===============================================================
+---
 
 🔄 **CF Quadrant Logic (Cluster Framework)**
 
@@ -149,4 +149,4 @@ RETURN Result
 
 Track Frequency = COUNTROWS(spotify_history)
 
-===============================================================
+---
