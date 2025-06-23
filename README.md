@@ -89,6 +89,5 @@ Spotify-Analysis/
 ## License
 MIT License – see LICENSE file for details.
 
-## 🤝 Credits
-Created by [Rohit Chandorkar].
+
 
