@@ -1,5 +1,8 @@
 ## **Spotify Power BI – DAX Measures**
 
+---
+---
+
 
 📊 KPI Metrics
 ▶️ Count Metrics
