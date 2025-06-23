@@ -76,7 +76,6 @@ Spotify-Analysis/
 ├── data/                           # CSV files  
 ├── Spotify Analysis.pbix           # Power BI file  
 ├── DAX_Measures.md                 # DAX grouped documentation  
-├── Spotify_Presentation.pptx  
 └── README.md
 
 ---
