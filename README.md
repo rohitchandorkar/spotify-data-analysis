@@ -85,6 +85,10 @@ Spotify-Analysis/
 ![spotify ](https://github.com/user-attachments/assets/cf0ef215-4f3f-4e5e-80ac-e58a0dc93e7c)
 
 ---
-  
-11. ## License
+
+## License
 MIT License – see LICENSE file for details.
+
+## 🤝 Credits
+Created by [Rohit Chandorkar].
+
