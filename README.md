@@ -9,7 +9,7 @@ A Power BI project that explores Spotify track-level data to uncover insights us
 ---
 
 ## Dashboard Link :-
-https://app.powerbi.com/groups/me/reports/01431fef-8637-480d-ae12-8fe7d206b347/31f997476622c1148bab?experience=power-bi
+https://app.powerbi.com/groups/me/reports/5f39416e-ab78-427c-be65-b98d253da77e/31f997476622c1148bab?experience=power-bi
 
 ---
 
