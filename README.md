@@ -83,11 +83,30 @@ Spotify-Analysis/
 ## 📷 Preview
 ![Overview](https://github.com/user-attachments/assets/55da7cf2-ce9e-4172-965e-e8446d5f1928)
 
+<img width="1206" height="802" alt="Listening Pattern" src="https://github.com/user-attachments/assets/b65b7045-ad8c-442e-8a87-b44cedb39f63" />
+
+<img width="1205" height="800" alt="Details" src="https://github.com/user-attachments/assets/918e10f5-e498-484a-84fa-c3f0293833c8" />
+
+
+
 
 ---
 
 ## License
 MIT License – see LICENSE file for details.
+
+---
+
+👨‍💻 Project by **Rohit Chandorkar**  
+
+📌 I’d be happy to connect and discuss opportunities.   
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rohit-c-13a0bb117/)  
+- 🌐 [GitHub](https://github.com/rohitchandorkar)  
+- 📧 chandorkar.rohit@gmail.com 
+
+---
+
+
 
 
 
